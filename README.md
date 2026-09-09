@@ -239,3 +239,6 @@ This repository serves as the official landing page for Free AVI Movie Player. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free AVI Movie Player today!**
+
+---
+**Last updated:** 2026-09-09 12:37:31 UTC
